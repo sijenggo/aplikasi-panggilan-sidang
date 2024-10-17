@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0900067.css",
+    "main.js": "/static/js/main.c469445a.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/Ubuntu-Light.ttf": "/static/media/Ubuntu-Light.c2bf1bb61db6c8149ae8.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.fbdecfce69a96dc73e2a.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.90c045b7547db9275807.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/static/media/Ubuntu-Bold.50114233a7432c29c43d.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/jingle.mp3": "/static/media/jingle.823048b88b5c1e7631a2.mp3",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/bg.svg": "/static/media/bg.2188b66707b5a6fdedb4.svg",
+    "index.html": "/index.html",
+    "main.e0900067.css.map": "/static/css/main.e0900067.css.map",
+    "main.c469445a.js.map": "/static/js/main.c469445a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0900067.css",
+    "static/js/main.c469445a.js"
+  ]
+}
